@@ -4,6 +4,7 @@ Clone Project for AirBnb
 ## Authors
 ---
 * [Kelvin Halx](https://twitter.com/Dev_Halx)
+* [Iyanuoluwa Okunade](https://github.com/heeyahnuh123)
 
 ## Description
 ---
